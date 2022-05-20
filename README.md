@@ -4,3 +4,5 @@ File model train: https://drive.google.com/drive/folders/1fhQBs-eVc04gxVElJ0TnqQ
 Dataset 3face: https://drive.google.com/drive/folders/1uLCRjTHsIKzCWgCzOvR4oEP-NvMgiZ72?usp=sharing
 
 Dataset Face: https://drive.google.com/drive/folders/1UCleDnYuBT5IcGbhZnTNRQInlAtcSlFY?usp=sharing
+
+Link Kaggle: https://www.kaggle.com/trieudo912/code?scroll=true
